@@ -4,11 +4,6 @@ A Flutter Android application for biometric palm and finger detection using comp
 
 ---
 
-## 📱 Features
-
-
----
-
 ## 🏗️ Architecture
 
 **MVVM** (Model-View-ViewModel)
